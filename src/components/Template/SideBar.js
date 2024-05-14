@@ -19,11 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni,
-        and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
-        I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
-        , co-founder of <a href="https://matroid.com">Matroid</a>, and worked at
-        {' '}<a href="https://planet.com">Planet</a> and <a href="https://facebook.com">Facebook</a>.
+      <p>Hi, I&apos;m Tejasva. I am a graduate of <a href="https://www.dtu.ac.in/Web/Departments/InformationTechnology/about/">Delhi Technological University</a> with Masters in Information Systems and <a href="https://csed.thapar.edu/">Thapar University</a> CSED Alumni. Recently finished a Web Development bootcamp at <a href="https://www.lighthouselabs.ca/en/web-development">Lighthouse Labs</a>. Software Engineer with over a year of experience, eager for the next challenge!.
       </p>
       <ul className="actions">
         <li>
