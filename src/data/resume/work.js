@@ -13,30 +13,27 @@
  */
 const work = [
   {
-    name: 'Smile Identity',
-    position: 'VP Engineering & Head of AI',
-    url: 'https://smileidentity.com',
-    startDate: '2022-01-01',
-    summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
-    used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
-    I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
-    and facilitate alignment and clarity across teams on goals, outcomes, and timelines. I was promoted
-    from Director of Engineering to VP of Engineering in April 2022, and then to VP of Engineering and Head
-    of AI in November 2022. I lead a 20+ person engineering org. I directly manage ~8 engineers and spend
-    >50% of my time writing code.`,
+    name: 'Delhi Technological University',
+    position: 'Teaching Assistant',
+    url: 'https://dtu.ac.in',
+    startDate: '2021-07-01',
+    endDate: '2022-06-01',
+    summary: `As a Teaching Assistant at Delhi Technological 
+    University (DTU), I was a vital part of the academic ecosystem, assisting faculty members in their teaching and mentoring responsibilities. DTU, formerly known as Delhi College of Engineering, is one of the most prestigious technical institutions in India. Located in Delhi, the university has a rich history of academic excellence and innovation, offering a wide range of undergraduate and postgraduate programs in engineering, sciences, and management.`,
     highlights: [
-      'Redesigned engineering processes for bug tracking, meetings, and standups. Improved culture for code reviews, blameless post-mortems, and retrospectives.',
-      'Re-architected engineering hiring and onboarding processes. Recruited several strong engineers.',
-      'Reorged engineering teams to focus on product delivery. Created a new team to focus on ML infrastructure.',
-      'Lead re-design of internal APIs for inference. Built new computer vision pipelines for industry leading certifications (NIST/iBeta liveness).',
-      'Pitched, designed, developed, deployed, and maintain a fraud detection product based on 1-N facial recognition using embeddings and vector search.',
+      'Organize practical workshops on C++, helping students develop coding skills and understanding of object-oriented programming principles.',
+      'Conduct practical classes on data structures and algorithms, providing hands-on experience to reinforce theoretical concepts.',
+      'Lead practical sessions on Database Management Systems (DBMS), guiding students through database design, querying, and management tasks.',
+      'Assist students during practical sessions, troubleshooting coding issues, and providing guidance to ensure successful completion of assignments.',
+      'Evaluate practical assignments and projects, providing constructive feedback to help students improve their programming proficiency and problem-solving abilities.',
     ],
   },
   {
-    name: 'Skeptical Investments',
-    position: 'Co-founder',
-    url: 'http://skepticalinvestments.biz',
-    startDate: '2017-04-01',
+    name: 'Pragati Industries',
+    position: 'Software Engineer',
+    url: 'https://pragatiinds.com/',
+    startDate: '2019-08-01',
+    endDate: '2020-09-01',
     summary: `Skeptical Investments is a micro-vc fund focused on Angel, Seed, and Series-A
     YC companies.`,
     highlights: [
