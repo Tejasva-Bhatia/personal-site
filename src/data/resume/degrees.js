@@ -1,15 +1,21 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Lighthouse Labs',
+    degree: 'Diploma Web Development Bootcamp',
+    link: 'https://www.lighthouselabs.ca/',
+    year: 2024,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Delhi Technological University',
+    degree: 'M.Tech Information Systems',
+    link: 'https://dtu.ac.in/',
+    year: 2022,
+  },
+  {
+    school: 'Thapar University',
+    degree: 'B.E Computer Engineering',
+    link: 'https://www.thapar.edu/',
+    year: 2019,
   },
 ];
 
